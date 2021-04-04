@@ -14,7 +14,8 @@
 #lanjutkan dengan
 bash install.sh
 
-Jika mengalami error, lakukan perintah manual berikut :
+Jika mengalami error, 
+lakukan perintah manual berikut :
 > pkg install tesseract
 > npm i -g cwebp
 > npm i -g ytdl
